@@ -4,7 +4,6 @@
 #
 %define		pdir	HTTP
 %define		pnam	MultiPartParser
-%include	/usr/lib/rpm/macros.perl
 Summary:	HTTP::MultiPartParser - HTTP MultiPart Parser
 #Summary(pl.UTF-8):	
 Name:		perl-HTTP-MultiPartParser
